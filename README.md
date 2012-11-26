@@ -1,18 +1,18 @@
-### Underscore 1.4.2 snippets for Sublime Text 2 ###
+# Underscore 1.4.2 snippets for Sublime Text 2
 
 A Sublime Text 2 package containing all of [Underscore](http://underscorejs.org/)'s methods.
 
 Most snippets follow object-oriented style (`_(obj).method(…)`); very few don't.  Yes, consistency should always win, but then again, `_(1).range(10)` looks weird -- I personally prefer `_.range( 1, 10 )`.  YMMV.
 
 
-### Installation (without Package Control for now, sorry) ###
+## Installation (without Package Control for now, sorry)
 
 Clone this repository into your `Packages/` folder, like so:
 
     git clone https://github.com/carlo/sublime-underscorejs-snippets.git
 
 
-### Legal
+## Legal
 
 Underscore (c) [DocumentCloud](http://underscorejs.org/).  This repository (c) Carlo Zottmann, [municode.de](http://municode.de/), carlo@municode.de.
 
