@@ -1,6 +1,6 @@
 <!-- Underscore 1.4.2 -->
 <snippet>
-   <content><![CDATA[_(${1:list}).pluck(propertyName)]]></content>
+   <content><![CDATA[_(${1:list}).pluck(${2:propertyName})]]></content>
     <tabTrigger>_pluck</tabTrigger>
     <scope>source.js</scope>
 </snippet>

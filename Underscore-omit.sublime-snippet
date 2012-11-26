@@ -1,6 +1,6 @@
 <!-- Underscore 1.4.2 -->
 <snippet>
-   <content><![CDATA[_(${1:object}).omit(*keys)]]></content>
+   <content><![CDATA[_(${1:object}).omit(${2:*keys})]]></content>
     <tabTrigger>_omit</tabTrigger>
     <scope>source.js</scope>
 </snippet>

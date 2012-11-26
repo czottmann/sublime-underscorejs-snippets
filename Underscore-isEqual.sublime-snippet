@@ -1,6 +1,6 @@
 <!-- Underscore 1.4.2 -->
 <snippet>
-   <content><![CDATA[_(${1:object}).isEqual(other)]]></content>
+   <content><![CDATA[_(${1:object}).isEqual(${2:other})]]></content>
     <tabTrigger>_isEqual</tabTrigger>
     <scope>source.js</scope>
 </snippet>

@@ -1,6 +1,6 @@
 <!-- Underscore 1.4.2 -->
 <snippet>
-   <content><![CDATA[_(${1:templateString}).template([data], [settings])]]></content>
+   <content><![CDATA[_(${1:templateString}).template(${2:[data]}${3:, [settings]})]]></content>
     <tabTrigger>_template</tabTrigger>
     <scope>source.js</scope>
 </snippet>
