@@ -5,6 +5,13 @@ A Sublime Text 2 package containing all of [Underscore](http://underscorejs.org/
 Most snippets follow object-oriented style (`_(obj).method(…)`); very few don't.  Yes, consistency should always win, but then again, `_(1).range(10)` looks weird -- I personally prefer `_.range( 1, 10 )`.  YMMV.
 
 
+## Invocation
+
+In any JS file, type an underscore character (`_`), and the selector should pop up.  Hit Return to insert the snippet.
+
+All methods are available in the form `_[method name]`, for example `_map` or `_reduceRight`.
+
+
 ## Installation (without Package Control for now, sorry)
 
 Clone this repository into your `Packages/` folder, like so:
