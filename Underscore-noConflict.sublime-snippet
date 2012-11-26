@@ -1,0 +1,6 @@
+<!-- Underscore 1.4.2 -->
+<snippet>
+   <content><![CDATA[_.noConflict()]]></content>
+    <tabTrigger>_noConflict</tabTrigger>
+    <scope>source.js</scope>
+</snippet>

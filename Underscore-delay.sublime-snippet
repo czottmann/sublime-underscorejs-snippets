@@ -1,0 +1,6 @@
+<!-- Underscore 1.4.2 -->
+<snippet>
+   <content><![CDATA[_(${1:functionName}).delay(${2:waitInMilliseconds}${3:, [*arguments]}))]]></content>
+    <tabTrigger>_delay</tabTrigger>
+    <scope>source.js</scope>
+</snippet>

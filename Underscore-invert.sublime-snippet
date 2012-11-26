@@ -1,0 +1,6 @@
+<!-- Underscore 1.4.2 -->
+<snippet>
+   <content><![CDATA[_(${1:object}).invert()]]></content>
+    <tabTrigger>_invert</tabTrigger>
+    <scope>source.js</scope>
+</snippet>

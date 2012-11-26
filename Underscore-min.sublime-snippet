@@ -1,0 +1,6 @@
+<!-- Underscore 1.4.2 -->
+<snippet>
+   <content><![CDATA[_(${1:list}).min([iterator])]]></content>
+    <tabTrigger>_min</tabTrigger>
+    <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<!-- Underscore 1.4.2 -->
+<snippet>
+   <content><![CDATA[_(${1:array}).without([*values])]]></content>
+    <tabTrigger>_without</tabTrigger>
+    <scope>source.js</scope>
+</snippet>
