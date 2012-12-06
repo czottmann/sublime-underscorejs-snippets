@@ -12,7 +12,12 @@ In any JS file, type an underscore character (`_`), and the selector should pop 
 All methods are available in the form `_[method name]`, for example `_map` or `_reduceRight`.
 
 
-## Installation (without Package Control for now, sorry)
+## Installation (using Package Control)
+
+Open ST2's [Package Control](http://wbond.net/sublime_packages/package_control) and look for "Underscore.js Snippets".
+
+
+## Installation (without using Package Control)
 
 Clone this repository into your `Packages/` folder, like so:
 
