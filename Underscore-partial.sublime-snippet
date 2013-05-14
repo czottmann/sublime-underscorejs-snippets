@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<!-- added by Underscore 1.4.4 -->
+<snippet>
+  <content><![CDATA[_(${1:functionName}).partial(${3:[*arguments]})]]></content>
+  <tabTrigger>_partial</tabTrigger>
+  <scope>source.js</scope>
+  <description>Underscore _.partial()</description>
+</snippet>
