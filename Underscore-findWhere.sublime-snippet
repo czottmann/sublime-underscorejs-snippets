@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<!-- added by Underscore 1.4.4 -->
+<snippet>
+  <content><![CDATA[_(${1:list}).findWhere(${2:object})]]></content>
+  <tabTrigger>_findWhere</tabTrigger>
+  <scope>source.js</scope>
+  <description>Underscore _.findWhere()</description>
+</snippet>
